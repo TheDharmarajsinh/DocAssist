@@ -1,0 +1,104 @@
+body {
+    background-image: linear-gradient(rgba(26, 26, 26, 0.75), rgba(26, 26, 26, 0.75)), url(../img/bg01.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    color: #f0f0f0;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.full-height {
+    max-height: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    width: 90%;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.DocAssist-logo {
+    font-size: 28px;
+    font-weight: 700;
+    color: #4CAF50;
+    animation: fadeIn 0.5s ease;
+}
+
+.DocAssist-logo-sub {
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.nav-item {
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 16px;
+    padding: 10px;
+    transition: color 0.3s ease;
+}
+
+.nav-item:hover {
+    color: #4CAF50;
+}
+
+.heading-text {
+    color: white;
+    font-size: 46px;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.sub-text2 {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.login-btn {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+    padding: 12px 28px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.login-btn:hover {
+    background-color: #43a047;
+}
+
+.footer-hashen {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+    .DocAssist-logo {
+        font-size: 24px;
+    }
+    .heading-text {
+        font-size: 32px;
+    }
+    .sub-text2 {
+        font-size: 16px;
+    }
+    .login-btn {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+}
