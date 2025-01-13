@@ -57,22 +57,22 @@ DocAssist is a web application designed to streamline the process of booking doc
 ### Index Page
 _The landing page where users can either log in or register._
 
-![Index Page Screenshot](https://github.com/user-attachments/assets/b685ace8-a2e1-4ad0-889f-89dbf72daa7d)
+![Index Page Screenshot](https://github.com/user-attachments/assets/b564fa1c-7016-4943-98ac-b4b275b479a9)
 
 ### Admin Panel
 _Manage doctors, schedules, and view patient bookings._
 
-![Admin Panel Screenshot](https://github.com/user-attachments/assets/472286bd-a601-4112-bf52-96a9d6726f8a)
+![Admin Panel Screenshot](https://github.com/user-attachments/assets/4d5425d7-5409-4785-893c-dcd91980e1ec)
 
 ### Doctor Portal
 _View appointments and manage profiles._
 
-![Doctor Portal Screenshot](https://github.com/user-attachments/assets/21cafac8-531c-4df1-a763-d5c854c1c477)
+![Doctor Portal Screenshot](https://github.com/user-attachments/assets/d8552044-194b-4613-b7c9-d69d302a67f7)
 
 ### Patient Portal
 _Book appointments and review booking history._
 
-![Patient Portal Screenshot](https://github.com/user-attachments/assets/9aa216b2-738b-4428-8a04-6ad00e5edee3)
+![Patient Portal Screenshot](https://github.com/user-attachments/assets/006364a3-3a49-441b-a406-8481a55269fb)
 
 ---
 
